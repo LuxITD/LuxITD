@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- - 🔭 I’m currently working on **Python , JavaScript, Flask, Mysql**
+- 🔭 I’m currently working on **Python , JavaScript, Flask, Mysql**
 
-- 🌱 I'm currently learning **security on database**
+- 🌱 I'm currently learning **Security on database and Dart**
 <!--Intro end-->
 
 
